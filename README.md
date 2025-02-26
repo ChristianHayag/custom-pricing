@@ -1,4 +1,5 @@
 Custom Pricing Documentation
+
 Overview
 This documentation provides an overview of two JavaScript files: custom-pricing.js and product-form-custom.js. These files are used to manage custom pricing and product form submission on a web page. The custom-pricing.js file handles frontend validation and price updates, while the product-form-custom.js file manages the submission of custom pricing data to the cart.
 
